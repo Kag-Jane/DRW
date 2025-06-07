@@ -5,9 +5,15 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "lightgbm>=4.6.0",
+    "matplotlib>=3.10.3",
     "numpy>=2.3.0",
     "pandas>=2.3.0",
+    "plotly>=6.1.2",
     "polars>=1.30.0",
+    "pyarrow>=20.0.0",
+    "scikit-learn>=1.7.0",
+    "scipy>=1.15.3",
     "torch>=2.7.1",
 ]
 
