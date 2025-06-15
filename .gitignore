@@ -1,6 +1,7 @@
 # model and output files
 *.csv
 *.txt
+AutogluonModels/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
